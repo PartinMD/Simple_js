@@ -31,7 +31,7 @@ for (word of storyWords) {
   }
 }
 
-// Establishing a sentence count again using 'for' loop and comparing the final index of each word to the punctuation that indicates the end of a sentence.
+// Establishing a sentence count: again using 'for' loop and comparing the final index of each word to the punctuation that indicates the end of a sentence.
 let sentenceCount = 0;
 
 for (word of storyWords) {
